@@ -1,0 +1,27 @@
+.boton{
+    align-items: center;
+    background-color: #262626;
+    border: 1px solid #262626;
+    border-radius: 100px;
+    box-shadow: 4px 6px 7px 1px rgba(0,0,0,0.57);
+    color: white;
+    cursor: pointer;
+    display: flex;
+    flex: 1 1;
+    font-weight: bold;
+    font-size: 40px;
+    height: 80px;
+    justify-content: center;
+    margin: 5px;
+    user-select: none;
+    -webkit-box-shadow: 4px 6px 7px 1px rgba(0,0,0,0.57);
+    -moz-box-shadow: 4px 6px 7px 1px rgba(0,0,0,0.57);
+}
+.boton:active{
+    box-shadow: inset 4px 6px 7px 1px rgba(0,0,0,0.57);
+    -webkit-box-shadow: inset 4px 6px 7px 1px rgba(0,0,0,0.57);
+    -moz-box-shadow: inset 4px 6px 7px 1px rgba(0,0,0,0.57);
+}
+.operador{
+    background-color: #dd6969;
+}

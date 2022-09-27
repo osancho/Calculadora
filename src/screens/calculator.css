@@ -1,0 +1,34 @@
+.fondo{
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 30px 5px;
+    width: 400px;
+    background-color: #262626;  
+    border-radius: 20px;
+}
+
+.resultado{ 
+    color: white;    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.resultadoAnt{
+    color: rgba(255,255,255,0.8);
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.paddingPre{
+    padding-top: 35px;
+}
+
+.fila{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
